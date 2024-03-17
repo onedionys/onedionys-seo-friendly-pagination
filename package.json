@@ -1,0 +1,36 @@
+{
+  "name": "onedionys-seo-friendly-pagination",
+  "version": "1.0.0",
+  "description": "One Dionys (SEO-friendly Pagination) - Components for sharing content across multiple pages with SEO-friendly URLs, improving rankings in search results.",
+  "main": "src/seoPagination.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onedionys/onedionys-seo-friendly-pagination.git"
+  },
+  "keywords": [
+    "onedionys",
+    "tea",
+    "package-manager",
+    "seo-friendly-pagination"
+  ],
+  "author": "One Dionys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onedionys/onedionys-seo-friendly-pagination/issues"
+  },
+  "homepage": "https://github.com/onedionys/onedionys-seo-friendly-pagination#readme",
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.3.0"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "lodash": "^4.17.21"
+  }
+}
