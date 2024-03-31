@@ -1,6 +1,6 @@
 {
   "name": "onedionys-seo-friendly-pagination",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "One Dionys (SEO-friendly Pagination) - Components for sharing content across multiple pages with SEO-friendly URLs, improving rankings in search results.",
   "main": "src/seoPagination.js",
   "directories": {
